@@ -4,7 +4,7 @@ while True:
     prog = input("Editor: ")
     if prog.lower() == "notepad" or prog.lower() == "word":
         print("awful")
-        dsfsgffdgdfg
+        
     elif prog.lower() == "visual studio code":
         print("an excellent choice!")
         break    
