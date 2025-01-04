@@ -1,23 +1,9 @@
 # Write your solution here
 def same_chars(string, a, b):
 
-    if string[a] == string[b]:
-       
-        return True
-    
-    
-    if string[a] or string[b] > len(string):
-       
-        return False
-    
-   
-       
-    else:
-      
-        return False
-    
-        
-    
+   if a >= len(string) or b >= len(string):
+       return False
+   return string[a] == string[b]
 
 
 

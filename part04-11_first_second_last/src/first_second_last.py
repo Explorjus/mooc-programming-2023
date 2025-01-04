@@ -1,4 +1,18 @@
 # Write your solution here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # You can test your function by calling it within the following block
 if __name__ == "__main__":
     sentence = "once upon a time there was a programmer"
