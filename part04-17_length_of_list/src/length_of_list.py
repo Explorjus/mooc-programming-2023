@@ -1,4 +1,13 @@
-# Write your solution here
+# Write your solution her
+def length(my_list):
+    dlugosc = len(my_list)
+    return dlugosc
+
+
+
+
+
+
 # You can test your function by calling it within the following block
 if __name__ == "__main__":
     my_list = [3, 6, -4]
